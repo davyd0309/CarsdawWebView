@@ -68,7 +68,7 @@ export default function SimpleTable() {
         <DriveEtaIcon />
       </Avatar>
       <Typography component="h1" variant="h5">
-        Katalog napraw
+        Katalog napraw samochodów
       </Typography>
 
       {isLoading ? (
